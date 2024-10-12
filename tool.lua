@@ -478,7 +478,7 @@ local Section2 = Tab2:AddSection({
 
 -- Add Fly script button to Tab 2
 Tab2:AddButton({
-    Name = "Load Fly Script",
+    Name = "Break in 2 story",
     Callback = function()
     if game.PlaceId ~= 13864667823 then
 	if game.PlaceId == 14775231477 or game.PlaceId == 13864661000 then
